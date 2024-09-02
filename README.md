@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a QA automation assignment for Gerimedica, focusing on automating both UI and API tests using Playwright and TypeScript. The project includes test cases to validate various functionalities on the DemoQA website, including:
+This project is a QA automation, focusing on automating both UI and API tests using Playwright and TypeScript. The project includes test cases to validate various functionalities on the DemoQA website, including:
 
 - Creating a user account via API.
 - Adding and removing books from a user's account via API.
